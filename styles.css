@@ -11,7 +11,6 @@ body {
   font-family: 'Outfit';
   background-color: hsl(30, 54%, 90%);
   color: hsl(30, 10%, 34%);
-  line-height: 1.5;
   padding-top: 60px;
   padding-bottom: 60px;
 }
@@ -23,7 +22,7 @@ body {
   margin-right: auto;
   background-color: hsl(0, 0%, 100%);
   border-radius: 20px;
-  padding: 40px;
+  padding: 35px;
   overflow: hidden;
 }
 
@@ -43,7 +42,7 @@ h1 {
 }
 
 h2 {
-  font-family: 'Young Serif', serif;
+  font-family: 'Young Serif';
   font-weight: 400;
   color: hsl(14, 45%, 36%);
   margin-top: 25px;
@@ -57,16 +56,16 @@ p {
 
 #prep-time {
   background-color: hsl(330, 100%, 98%);
-  padding: 25px;
-  border-radius: 12px;
+  padding: 30px;
+  border-radius: 15px;
   margin-top: 30px;
   margin-bottom: 30px;
 }
 
 #prep-time h2 {
-  font-family: 'Outfit', sans-serif;
+  font-family: 'Outfit';
   color: hsl(332, 51%, 32%);
-  font-size: 20px;
+  font-size: 22px;
   font-weight: 600;
   margin-top: 0;
 }
@@ -77,7 +76,7 @@ ul, ol {
 }
 
 li {
-  margin-bottom: 10px;
+  margin-bottom: 15px;
   padding-left: 15px;
 }
 
